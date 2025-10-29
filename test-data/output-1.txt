@@ -1,0 +1,4 @@
+# expected output if all firing modes work and no failures occur
+SUCCESS # <-GT4500
+SUCCESS # <-TORPEDO,SINGLE
+SUCCESS # <-TORPEDO,ALL
