@@ -1,0 +1,7 @@
+# expected output when the ship runs out of torpedoes but still tries to fire more
+SUCCESS #<- GT4500
+SUCCESS #<- TORPEDO,ALL
+FAIL #<- TORPEDO,SINGLE
+FAIL #<- TORPEDO,SINGLE
+FAIL #<- TORPEDO,SINGLE
+FAIL #<- TORPEDO,SINGLE
