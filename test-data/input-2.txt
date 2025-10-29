@@ -4,3 +4,6 @@ GT4500,1,0,1,0
 TORPEDO,ALL
 # Try to fire torpedoes when there are none left
 TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

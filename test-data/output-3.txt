@@ -1,4 +1,5 @@
 # expected output if the ship has torpedoes but fails to fire them
 SUCCESS #<- GT4500
 FAIL #<- TORPEDO,SINGLE
+FAIL #<- TORPEDO,SINGLE
 FAIL #<- TORPEDO,ALL
